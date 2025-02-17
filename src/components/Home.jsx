@@ -1,8 +1,8 @@
 import React, { useRef } from "react";
 import { motion, useInView } from "framer-motion";
 import ImageCarousel from "../components/design/Carousel";
-import curve from "../assets/home/curve.png";
-import heroBackground from "../assets/home/hero-background.jpg";
+import curve from "/assets/home/curve.png";
+import heroBackground from "/assets/home/hero-background.jpg";
 import { BackgroundCircles, Gradient } from "./design/Hero.jsx";
 
 const text = "UTKARSH 2025";

@@ -1,14 +1,14 @@
 import React, { useState } from "react";
 import { motion } from "framer-motion";
 
-import img1 from "../assets/eventimg/img1.jpg";
-import img2 from "../assets/eventimg/img3.jpg";
-import img4 from "../assets/eventimg/img4.jpg";
-import img5 from "../assets/eventimg/img5.jpg";
-import img6 from "../assets/eventimg/img6.jpg";
-import img7 from "../assets/eventimg/img7.jpg";
-import img8 from "../assets/eventimg/img8.jpg";
-import img9 from "../assets/eventimg/img9.jpg";
+import img1 from "/assets/eventimg/img1.jpg";
+import img2 from "/assets/eventimg/img3.jpg";
+import img4 from "/assets/eventimg/img4.jpg";
+import img5 from "/assets/eventimg/img5.jpg";
+import img6 from "/assets/eventimg/img6.jpg";
+import img7 from "/assets/eventimg/img7.jpg";
+import img8 from "/assets/eventimg/img8.jpg";
+import img9 from "/assets/eventimg/img9.jpg";
 
 const images = [img1, img2, img7, img4, img5, img6, img7, img8, img9];
 

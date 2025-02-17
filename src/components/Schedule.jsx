@@ -11,7 +11,7 @@ const events = [
     name: "Inauguration Ceremony",
     time: "8 AM",
     location: "Main Stage",
-    image: "/src/assets/schedule/opening.png",
+    image: "/assets/schedule/opening.png",
   },
   {
     id: 2,
@@ -19,7 +19,7 @@ const events = [
     name: "Squid Game",
     time: "9 AM - 12 PM",
     location: "Badminton Court",
-    image: "/src/assets/schedule/squidgame.jpg",
+    image: "/assets/schedule/squidgame.jpg",
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const events = [
     name: "NSS League",
     time: "9 AM - 12 PM",
     location: "Room: 2202",
-    image: "/src/assets/schedule/quiz.png",
+    image: "/assets/schedule/quiz.png",
   },
   {
     id: 4,
@@ -35,7 +35,7 @@ const events = [
     name: "Escape Room",
     time: "9 AM - 1 PM",
     location: "Room: 2101-2102",
-    image: "/src/assets/schedule/escape.jpg",
+    image: "/assets/schedule/escape.jpg",
   },
   {
     id: 5,
@@ -43,7 +43,7 @@ const events = [
     name: "War of Verses",
     time: "10 AM - 12 PM",
     location: "Room: 2216",
-    image: "/src/assets/schedule/warof.jpg",
+    image: "/assets/schedule/warof.jpg",
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ const events = [
     name: "Crime Scene",
     time: "10 AM - 1 PM",
     location: "Room: 3205",
-    image: "/src/assets/schedule/crime.jpg",
+    image: "/assets/schedule/crime.jpg",
   },
   {
     id: 7,
@@ -59,7 +59,7 @@ const events = [
     name: "Vibhavari",
     time: "1 PM - 3 PM",
     location: "Room: 4106",
-    image: "/src/assets/schedule/indianmusic.jpg",
+    image: "/assets/schedule/indianmusic.jpg",
   },
   {
     id: 8,
@@ -67,7 +67,7 @@ const events = [
     name: "Nach Baliye",
     time: "2 PM - 3:40 PM",
     location: "Main Stage",
-    image: "/src/assets/schedule/nachbaliye.png",
+    image: "/assets/schedule/nachbaliye.png",
   },
   {
     id: 9,
@@ -75,7 +75,7 @@ const events = [
     name: "Fashionista",
     time: "3:30 PM - 7 PM",
     location: "Main Stage",
-    image: "/src/assets/schedule/fashion.jpg",
+    image: "/assets/schedule/fashion.jpg",
   },
   {
     id: 10,
@@ -83,7 +83,7 @@ const events = [
     name: "Nukkad Natak",
     time: "9 AM - 5 PM",
     location: "Flag Ground",
-    image: "/src/assets/schedule/natak.jpg",
+    image: "/assets/schedule/natak.jpg",
   },
   {
     id: 11,
@@ -91,7 +91,7 @@ const events = [
     name: "Meme War",
     time: "9 AM - 2 PM",
     location: "Room: 5001",
-    image: "/src/assets/schedule/meme.jpg",
+    image: "/assets/schedule/meme.jpg",
   },
   {
     id: 12,
@@ -99,7 +99,7 @@ const events = [
     name: "False Perception",
     time: "9 AM - 12 PM",
     location: "Room: 2004",
-    image: "/src/assets/schedule/false.jpg",
+    image: "/assets/schedule/false.jpg",
   },
   {
     id: 13,
@@ -107,7 +107,7 @@ const events = [
     name: "Treasure Hunt",
     time: "9 AM - 12 PM",
     location: "Room: 2405",
-    image: "/src/assets/schedule/hunt.jpg",
+    image: "/assets/schedule/hunt.jpg",
   },
   {
     id: 14,
@@ -115,7 +115,7 @@ const events = [
     name: "The Sherlock Quest",
     time: "10 AM - 12 PM",
     location: "Room: 5204",
-    image: "/src/assets/schedule/Quest.jpg",
+    image: "/assets/schedule/Quest.jpg",
   },
   {
     id: 15,
@@ -123,7 +123,7 @@ const events = [
     name: "Techopia",
     time: "12:30 PM - 2 PM",
     location: "Room: 2113",
-    image: "/src/assets/schedule/techo.jpg",
+    image: "/assets/schedule/techo.jpg",
   },
   {
     id: 16,
@@ -131,7 +131,7 @@ const events = [
     name: "Blind Date",
     time: "1 PM - 4 PM",
     location: "Badminton Court",
-    image: "/src/assets/schedule/blindate.jpg",
+    image: "/assets/schedule/blindate.jpg",
   },
   {
     id: 17,
@@ -139,7 +139,7 @@ const events = [
     name: "Yugantar - Monoact",
     time: "1 PM - 4 PM",
     location: "Auditorium",
-    image: "/src/assets/schedule/monoact.jpg",
+    image: "/assets/schedule/monoact.jpg",
   },
   {
     id: 18,
@@ -147,7 +147,7 @@ const events = [
     name: "Outlast Arena",
     time: "1 PM - 5 PM",
     location: "4-5th Block",
-    image: "/src/assets/schedule/arena.jpg",
+    image: "/assets/schedule/arena.jpg",
   },
   {
     id: 19,
@@ -155,7 +155,7 @@ const events = [
     name: "Mr. and Ms. Utkarsh",
     time: "3 PM - 5 PM",
     location: "Main Stage",
-    image: "/src/assets/schedule/mrandms.jpg",
+    image: "/assets/schedule/mrandms.jpg",
   },
   {
     id: 20,
@@ -163,7 +163,7 @@ const events = [
     name: "Star Night",
     time: "6:30 PM",
     location: "Main Stage",
-    image: "/src/assets/schedule/sidk.jpg",
+    image: "/assets/schedule/sidk.jpg",
   },
   {
     id: 21,
@@ -171,7 +171,7 @@ const events = [
     name: "Collage Making",
     time: "10 AM - 12 PM",
     location: "Amphitheater",
-    image: "/src/assets/schedule/collage.jpg",
+    image: "/assets/schedule/collage.jpg",
   },
   {
     id: 22,
@@ -179,7 +179,7 @@ const events = [
     name: "Utkarsh Idol",
     time: "11 AM - 2 PM",
     location: "Amphitheater",
-    image: "/src/assets/schedule/idol.png",
+    image: "/assets/schedule/idol.png",
   },
   {
     id: 23,
@@ -187,7 +187,7 @@ const events = [
     name: "Battle of Bands",
     time: "2 PM",
     location: "Main Stage",
-    image: "/src/assets/schedule/bob.jpg",
+    image: "/assets/schedule/bob.jpg",
   },
   {
     id: 24,
@@ -195,7 +195,7 @@ const events = [
     name: "Face Painting",
     time: "2 PM 4 PM",
     location: "Room: 5001",
-    image: "/src/assets/schedule/facepaint.jpg",
+    image: "/assets/schedule/facepaint.jpg",
   },
   {
     id: 25,
@@ -203,7 +203,7 @@ const events = [
     name: "Nukkad Natak",
     time: "3 PM - 4 PM",
     location: "Badminton Court",
-    image: "/src/assets/schedule/natak.jpg",
+    image: "/assets/schedule/natak.jpg",
   },
 ];
 

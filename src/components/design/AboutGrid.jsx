@@ -3,19 +3,19 @@ import { Dialog } from "@headlessui/react";
 
 const images = [
   {
-    src: "/src/assets/about/knowledge.png",
+    src: "/assets/about/knowledge.png",
     title: "Knowledge",
   },
   {
-    src: "/src/assets/about/game.png",
+    src: "/assets/about/game.png",
     title: "Games",
   },
   {
-    src: "/src/assets/about/dance.jpg",
+    src: "/assets/about/dance.jpg",
     title: "Dance",
   },
   {
-    src: "/src/assets/about/music.jpg",
+    src: "/assets/about/music.jpg",
     title: "Music",
   },
 ];

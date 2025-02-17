@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto flex flex-row justify-between items-center w-full">
         <div className="flex flex-col items-start">
           <img
-            src="/src/assets/logo1.jpg"
+            src="/assets/logo1.jpg"
             alt="Utkarsh 2025"
             className="w-28 h-auto mb-2"
           />

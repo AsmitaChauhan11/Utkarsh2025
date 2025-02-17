@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import bg from "../../assets/bg.jpg";
+import bg from "/assets/bg.jpg";
 
 const targetDate = new Date("2025-02-19T00:00:00").getTime();
 
