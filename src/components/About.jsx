@@ -19,7 +19,7 @@ const About = () => {
       const animationDuration = 0.1 * text.split(" ").length * 1000;
       setTimeout(() => {
         setTextAnimationDone(true);
-      }, animationDuration / 6);
+      }, animationDuration / 12);
     }
   }, [textInView]);
 

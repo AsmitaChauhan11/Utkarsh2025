@@ -80,7 +80,7 @@ const Home = () => {
             Welcome to
           </motion.h1>
 
-          <h1 className="text-5xl font-bold lg:text-7xl md:text-6xl font-tiltPrism">
+          <h1 className="text-4xl font-bold lg:text-6xl md:text-5xl font-tiltPrism">
             <span className="inline-block relative">
               {text.split("").map((char, index) => (
                 <motion.span
