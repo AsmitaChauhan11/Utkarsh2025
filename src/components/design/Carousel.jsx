@@ -2,7 +2,7 @@ import React from "react";
 import { Carousel } from "react-responsive-carousel";
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 
-import img1 from "../../assets/adgips.png";
+import img1 from "../../assets/carousel/collegeimg.jpg";
 import img2 from "../../assets/logo1.jpg";
 import img3 from "../../assets/futuretech.jpg";
 
