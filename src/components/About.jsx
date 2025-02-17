@@ -26,8 +26,8 @@ const About = () => {
   const text =
     "Utkarsh, formerly known as INNOVIZ, is a three-day extravaganza celebrating arts, culture, and engineering. As a premier tech fest, it brings together bright minds, groundbreaking ideas, and cutting-edge advancements that shape the future. From hands-on workshops and competitive hackathons to insightful talks by industry experts and research paper presentations, Utkarsh is the ultimate platform for students, professionals, and tech enthusiasts to explore, learn, and showcase their talents. Since its inception in 2006, UTKARSH has established itself as a premier event in Delhi & NCR, attracting over 10,000 attendees annually. Join us in pushing boundaries, redefining the present, and pioneering a smarter tomorrow. The future begins here!";
   return (
-    <section className="text-white py-16 px-6 sm:px-12" id="about">
-      <div className="container mx-auto flex flex-col items-center justify-center text-left w-full">
+    <section className="text-white py-1 px-6 sm:px-12" id="about">
+      <div className="container mx-auto flex flex-col items-center justify-center text-left w-full py-3">
         <motion.h2
           initial={{ opacity: 0, y: -20 }}
           whileInView={{ opacity: 1, y: 0 }}

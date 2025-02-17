@@ -24,7 +24,7 @@ const AboutGrid = () => {
   const [selectedImage, setSelectedImage] = useState(null);
 
   return (
-    <div className="p-4 max-w-5xl mx-auto lg:mt-20">
+    <div className="px-4 max-w-5xl mx-auto lg:mt-20 lg:mb-7">
       <div className="grid grid-cols-2 gap-4 md:gap-6">
         {images.map((image, index) => (
           <div

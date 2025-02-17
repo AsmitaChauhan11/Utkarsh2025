@@ -219,7 +219,7 @@ const Schedule = () => {
 
   return (
     <div
-      className="flex flex-col items-center min-h-screen p-8 text-white w-full"
+      className="flex flex-col items-center min-h-screen px-8 lg:py-8 text-white w-full"
       id="schedule"
     >
       <motion.h1

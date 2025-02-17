@@ -20,7 +20,7 @@ const Events = () => {
       className="flex flex-col items-center justify-center min-h-screen p-4"
       id="events"
     >
-      <h1 className="text-4xl lg:text-6xl md:text-5xl font-bold font-aclonica mb-10 text-white lg:mt-12">
+      <h1 className="text-4xl lg:text-6xl md:text-5xl font-bold font-aclonica mb-10 text-white lg:mt-9">
         Event Highlights
       </h1>
       <div

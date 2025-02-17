@@ -189,7 +189,7 @@ const Team = () => {
 
   return (
     <div>
-      <section className="text-white py-10 px-5" id="team">
+      <section className="text-white pt-1 pb-8 px-5" id="team">
         <motion.h2
           className="text-center text-4xl lg:text-6xl md:text-5xl font-bold font-aclonica mb-16 lg:mt-7"
           initial={{ opacity: 0, x: -50 }}
